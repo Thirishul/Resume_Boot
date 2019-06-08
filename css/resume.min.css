@@ -159,3 +159,6 @@ a:focus,
 a:hover {
     color: #824027
 }
+
+
+::-webkit-scrollbar {}
